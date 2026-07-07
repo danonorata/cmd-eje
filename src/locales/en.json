@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "services": "Services",
+    "methodology": "Methodology",
+    "caseStudies": "Case studies",
+    "resources": "Resources",
+    "cta": "Book call"
+  },
+  "hero": {
+    "headline": "The axis that drives your commercial growth",
+    "subhead": "Sales, training and strategic direction consulting, backed by a data-driven diagnostic.",
+    "cta": "Book a free diagnostic"
+  },
+  "about": {
+    "title": "About CMD Eje",
+    "body": "We help companies grow by aligning three fronts: how they sell, how they train their people, and how they're led. Every recommendation starts from a data-driven diagnostic, not intuition."
+  },
+  "services": {
+    "title": "Services",
+    "items": [
+      { "name": "Sales", "description": "Commercial strategy and sales cycle optimization" },
+      { "name": "Training", "description": "Sales team and leadership development" },
+      { "name": "Direction", "description": "Strategic direction and decision-making advisory" }
+    ]
+  },
+  "methodology": {
+    "title": "How we find the opportunities",
+    "body": "Before we recommend anything, we measure. Our diagnostic process uses real data from your business (sales, team performance, management KPIs) to pinpoint exactly where the opportunity is, before designing the sales, training, or direction strategy.",
+    "steps": [
+      "Data diagnostic",
+      "Strategy design",
+      "Implementation",
+      "Results measurement"
+    ]
+  },
+  "testimonials": {
+    "title": "Case studies"
+  },
+  "resources": {
+    "title": "Resources"
+  },
+  "ctaFinal": {
+    "title": "Ready to find your next growth opportunity?",
+    "cta": "Book a free diagnostic"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "privacy": "Privacy notice"
+  }
+}

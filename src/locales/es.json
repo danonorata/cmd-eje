@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "services": "Servicios",
+    "methodology": "Metodología",
+    "caseStudies": "Casos de éxito",
+    "resources": "Recursos",
+    "cta": "Agendar"
+  },
+  "hero": {
+    "headline": "El eje que dirige tu crecimiento comercial",
+    "subhead": "Consultoría en ventas, capacitación y dirección estratégica, con diagnóstico basado en datos.",
+    "cta": "Agendar diagnóstico gratis"
+  },
+  "about": {
+    "title": "Sobre CMD Eje",
+    "body": "Ayudamos a empresas a crecer alineando tres frentes: la forma en que venden, la forma en que capacitan a su gente, y la forma en que se dirigen. Cada recomendación parte de un diagnóstico basado en datos, no en intuición."
+  },
+  "services": {
+    "title": "Servicios",
+    "items": [
+      { "name": "Ventas", "description": "Estrategia comercial y optimización del ciclo de ventas" },
+      { "name": "Capacitación", "description": "Formación de equipos comerciales y de liderazgo" },
+      { "name": "Dirección", "description": "Asesoría en dirección estratégica y toma de decisiones" }
+    ]
+  },
+  "methodology": {
+    "title": "Cómo encontramos las oportunidades",
+    "body": "Antes de recomendar nada, medimos. Nuestro proceso de diagnóstico usa datos reales de tu negocio (ventas, desempeño de equipo, indicadores de gestión) para señalar exactamente dónde está la oportunidad, antes de diseñar la estrategia de ventas, capacitación o dirección.",
+    "steps": [
+      "Diagnóstico con datos",
+      "Diseño de estrategia",
+      "Implementación",
+      "Medición de resultados"
+    ]
+  },
+  "testimonials": {
+    "title": "Casos de éxito"
+  },
+  "resources": {
+    "title": "Recursos"
+  },
+  "ctaFinal": {
+    "title": "¿Listo para encontrar tu próxima oportunidad de crecimiento?",
+    "cta": "Agendar diagnóstico gratis"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Aviso de privacidad"
+  }
+}
